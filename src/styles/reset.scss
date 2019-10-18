@@ -1,0 +1,48 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #404142;
+  font-size: 12px;
+  letter-spacing: 0.8px;
+}
+
+*{
+  margin:0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 200;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+a:hover,
+a:focus,
+a:active,
+a:visited {
+  text-decoration: none;
+}
+
+h1 { font-size: 36px; margin : 1.3em 0; padding: 0 }
+h2 { font-size: 20px; margin : 1.1em 0; padding: 0 }
+h3 { font-size: 16px; margin : 0.75em 0; padding: 0 }
+h4 { font-size: 14px; margin : 0.5em 0; padding: 0 }
+
+p { margin : 10px 0; font-size: 12px; line-height: 1.3em}

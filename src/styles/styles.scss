@@ -1,0 +1,28 @@
+@import "./reset.scss";
+@import "./homepage.scss";
+
+/* Mobile */
+
+@media (max-width: 767px) {
+  .wrapper{
+      width:100%;
+      display: block;
+  }
+
+
+
+}
+
+
+/* iPad Portrait */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+
+/* iPad Landscape */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+}
